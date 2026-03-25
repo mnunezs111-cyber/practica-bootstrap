@@ -1,0 +1,21 @@
+h1 {
+    color: green;
+    background-color: black;
+    font-size: 75px;
+}
+
+p {
+    color: red;
+    background-color: blue;
+    font-size: 50px;
+}
+
+.parrafo-header {
+    color: yellow;
+    background-color: blueviolet;
+}
+
+#parrafo-unico {
+    color: deepskyblue;
+    background-color: coral;
+}

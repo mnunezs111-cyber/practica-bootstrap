@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.caja {
+    background-color: aqua;
+    box-sizing: border-box;
+    padding: 100px 150px 75px 50px;
+    border: 10px; 
+    margin: 100px 150px 75px 50px;
+    width: 500px;
+    height: 500px; 
+}
+
+.block {
+    background-color: blueviolet;
+    /*width: 700px;
+    height: 100;*/
+    padding: 100px 50px;
+}
+
+.inline {
+    background-color: cornflowerblue;
+    /*width: 700px;
+    height: 100;*/
+    padding: 0px 50px;
+}
+
+p-block {
+    display: block;
+    background-color: blueviolet;
+    padding: 100px 50px;
+}
+
+li {
+    display: inline;
+}

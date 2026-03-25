@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url(https://images.pexels.com/photos/235864/pexels-photo-235864.jpeg?_gl=1*1u918ui*_ga*MzQyODUzOTgzLjE3NzMxODk2NTQ.*_ga_8JE65Q40S6*czE3NzM3ODY5NjkkbzIkZzEkdDE3NzM3ODcwMjEkajgkbDAkaDA.);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+h1 {
+    text-align: center;
+    font-size: 3rem;
+}
+
+* div { 
+    height: 1000px;
+}
